@@ -1,0 +1,21 @@
+Main screen
+1. Inbox
+2. Settings
+3. Date & today's timeline button
+4. Today's sun times
+5. Character scene
+6. Place & time spent
+7. Status bubble
+8. Lock Screen display button
+9. Info text
+
+Timeline (daily history) screen
+1. Date
+2. Go to today
+3. Close
+4. Change week / open calendar
+5. Week day strip
+6. Day timeline bar
+7. By Place / Timeline
+8. Registered place entry
+9. Unregistered place entry
